@@ -1,0 +1,2 @@
+# CIS4900-Independent-Study-Spring-2019
+This is the repository for my Independent Study Course during Spring 2019 semester. In this course I will be exploring the use of Hierarchical Reinforcement Learning, specifically the use of high level options, in constructing procedures by which agents can discover new skills autonomously. In thesis repository I will keep documentation of my efforts including: Readings, Writings, and Projects done within the course. 
