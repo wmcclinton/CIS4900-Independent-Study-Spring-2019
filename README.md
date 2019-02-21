@@ -10,7 +10,7 @@ This is the repository for my Independent Study Course during Spring 2019 semest
 ### Projects
 ...This section contains personal projects that I've implemented within this course. These projects range from implementations of examples from Sutton and Barto's [*Reinforcement Learnining: An Introduction*](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=sr_1_3?crid=3S9BNFYPT7OLW&keywords=introduction+to+reinforcement+learning&qid=1550769479&s=gateway&sprefix=introduction+to+rei%2Caps%2C168&sr=8-3) and Maxim Lapan's [*Deep Reinforcement Learning Hands-On*](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks-ebook/dp/B076H9VQH6/ref=sr_1_2_sspa?crid=3S9BNFYPT7OLW&keywords=introduction+to+reinforcement+learning&qid=1550769479&s=gateway&sprefix=introduction+to+rei%2Caps%2C168&sr=8-2-spons&psc=1) books to personal projects I wanted to explore.
 
-*Notes: I still need to add DRLHO stuff and exploratory Coursera Stuff.
+*Notes: I still need to add DRLHO stuff and exploratory Coursera Stuff. I also need to add short descriptions of the code uploaded.
 
 ### Certificates
 ...During my time in this course I've watched the full video playlist from Andrew Ng's [Machine Learning Coursera Course](https://www.coursera.org/learn/machine-learning) from Stanford and [Deep Learning Specialization Coursera Course](https://www.coursera.org/specializations/deep-learning) from deeplearning.ai. Also I decided to complete the assignments for 4/5 deep learning specialization topics and attain certificates of completion from them.
