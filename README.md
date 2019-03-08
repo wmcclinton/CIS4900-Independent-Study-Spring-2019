@@ -19,14 +19,14 @@ This is the repository for my Independent Study Course during Spring 2019 semest
 ...This section is unfinished, and contains some random preliminary writings done for applications losely related to this class.
 
 ## What I've Learned
-...In Progress
+...In Progress (Alot will extend later: Dynamic Programming, Monte Carlo, TD-Learning, Q-Learning, Sarsa, Actor Critic, Deep Learning, A3C, DQN, CNN, RNN, LSTM, ...)
 
 ## Future Directions
-...In Progress
+...In Progress (After months of literature review our current direction is: Meta-Learning Hierarchical Policies with Hindsight)
 
 ## Authors
 
-* [**Willie McClinton** ](https://wmcclinton.github.io/)
+* [**Willie McClinton**](https://wmcclinton.github.io/)
 
 
 ## Acknowledgments
